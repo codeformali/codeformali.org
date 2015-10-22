@@ -1,0 +1,26 @@
+body {
+  padding-top:80px;
+}
+
+.center {	
+  text-align: center;
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 5px;
+  border-top: 1px solid #eee;
+  color: #777;
+  
+  a {
+    color: #666;
+    &:hover {
+      color: #222;
+      text-decoration: none;
+    }
+  }
+
+  ul {
+    list-style: none;
+  }
+}

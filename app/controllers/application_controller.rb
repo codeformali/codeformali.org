@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def index
-  	render text: "<h1>Hello, there !</h1>"
+    #render text: "<h1>Hello, there !</h1>"
   end
 end
