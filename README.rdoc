@@ -1,5 +1,7 @@
 == README
 
+The app is deployed to heroku at this URL https://code-for-mali.herokuapp.com
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
