@@ -4,4 +4,11 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+@import "modules/navbar";
+
+.home-banner {
+  color: white;
+  background-color: $black;
+}
+
 
